@@ -1,0 +1,7 @@
+{
+  "data": [
+    { "id": 1, "title": "Konsumsi Panitia", "tanggal": "10/04/20", "deskripsi": "Pengeluaran", "jumlah": "Rp 1.000.000" },
+    { "id": 2, "title": "Donasi Kitabisa", "tanggal": "10/04/20", "deskripsi": "Pemasukan", "jumlah": "Rp 50.000.000" },
+    { "id": 3, "title": "Beli: Masker N-95", "tanggal": "10/04/20", "deskripsi": "Pengeluaran", "jumlah": "Rp 10.000.000" }
+  ]
+}
